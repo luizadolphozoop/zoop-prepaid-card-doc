@@ -3,7 +3,7 @@
   "info" : {
     "description" : "API de integração para as funcionalidades de cartão pré-pago no marketplace e estabelecimento.",
     "version" : "0.0.2",
-    "title" : "Zoop-prepaid-card | Cartão Pré-pago"
+    "title" : "Cartão Pré-pago"
   },
   "host": "api.zoop.ws",
   "basePath" : "/v1",
